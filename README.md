@@ -12,7 +12,7 @@ DSFA is a software for paper 《Discriminator-based Stratigraphic Sequence Seman
 
 ### Who do I talk to?
 
-Yu Sun
+Yu Sun 
 a. School of Earth Sciences, Northeast Petroleum University, Daqing 163318, China;
 b. National Key Laboratory of Continental Shale Oil, Northeast Petroleum University, Daqing, Heilongjiang 163318, China
 
